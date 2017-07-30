@@ -20,7 +20,7 @@ title: "The Malices From All This World"
 
 description: "Try to find a way out of the Darkness, We are all the little stars."
 baseurl: "/TMFATW" # the subpath of your site, e.g. /blog
-url: "//finegao.github.io/TMFATW" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://finegao.github.io/TMFATW" # the base hostname & protocol for your site, e.g. http://example.com
 tagline: "Did you get what you wanted from this life"
 # twitter_username: jekyllrb
 # github_username:  jekyll
