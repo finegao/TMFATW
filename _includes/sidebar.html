@@ -5,7 +5,7 @@
   <aside>
     <h3>Archives</h3>
  <ul class="archives">
- 				<li><a href="{{site.baseurl}}/tags/">All posts</a></li>
+ 				<li><a href="{{site.baseurl}}/tags/archive.html">All posts</a></li>
                 {% for tag in sortedTags %}
                     <li><a href="{{site.baseurl}}/tags/archive.html#{{ tag | cgi_escape }}">{{ tag }} ({{ site.tags[tag].size }})</a></li>
                 {% endfor %}
