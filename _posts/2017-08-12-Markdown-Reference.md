@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Markdwon Refenrence"
+title:  "Markdown Reference"
 date:   2017-08-12
-tags: [Markdwon]
+tags: [Markdown]
 ---
 
-# Markdwon 参考
+### Markdown 参考
 
-Atom 可以使用 Markdwon 预览工具  
-[StackEdit.io](1)是一个很好的Markdwon在线编辑工具
+Atom 可以使用 Markdown 预览工具  
+[StackEdit.io](1)是一个很好的Markdown在线编辑工具
 
 注意，本质上每一段文字都是 inline元素，所以必须以 inline 的结构来思考，同时可以使用 span 标签添加文字，使用 i 标签添加图标，注意和图片的区别。参考[StackEdit.io](1)。
 
@@ -29,11 +29,11 @@ Atom 可以使用 Markdwon 预览工具
 
 ###特殊字符
 
-使用 \\ 来使用特殊的字符，使用它可以暂时退出Markdwon占用的功能符号
+使用 \\ 来使用特殊的字符，使用它可以暂时退出Markdown占用的功能符号
 
 ## Html 标签
 
-markdwon 中可以随意插入 html 标签，并且添加 class  
+markdown 中可以随意插入 html 标签，并且添加 class  
 
 ## line break
 
