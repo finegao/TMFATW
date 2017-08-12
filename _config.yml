@@ -30,7 +30,7 @@ markdown: kramdown
 kramdown:
     auto_ids: false
 
-paginate: 5
+paginate: 6
 paginate_path: '/myblog/page:num/'
 
 permalink: /malice/:title

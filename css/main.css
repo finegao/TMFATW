@@ -301,6 +301,7 @@ p {
 a {
 	color: #42659A;
 	line-height: inherit;
+  text-decoration: none;
 }
 a:hover {
 	color: #213149;
