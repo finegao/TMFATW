@@ -282,12 +282,12 @@ th {
   Global settings
 -----------------------------------------------------*/
 body {
-	font: 110% 'Roboto Slab', Georgia, serif;
+	font: 110% 'Lato', sans-serif;
 	background: white;
 	direction: ltr;
 }
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'Oswald', 'Helvetica Narrow', Arial, sans-serif;
+	font-family: 'Playfair Display', serif;
 	font-weight: 700;
 }
 *, *:before, *:after {
