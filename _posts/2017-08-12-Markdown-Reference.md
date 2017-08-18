@@ -62,6 +62,8 @@ if (isAwesome){
 使用 \- bash 来表示列表的分类，然后用缩进表示列表得层级。  
 数字列表直接用数字表示就可以了。
 
+二级列表需要<mark>两个空格</mark>或者<mark>一个tab</mark>
+
 ### horizontal rule
 用 tick 来表示代码，然后用三个 \- bash来表示分割线。
 同时 bash 还可以来表示列表
