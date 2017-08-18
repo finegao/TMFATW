@@ -5,7 +5,7 @@ date:   2017-08-12
 tags: [Markdown]
 ---
 
-## Markdown 参考
+### Markdown 参考
 
 Atom 可以使用 Markdown 预览工具  
 [StackEdit.io](1)是一个很好的Markdown在线编辑工具
@@ -16,7 +16,7 @@ Atom 可以使用 Markdown 预览工具
 
 `<i class="icon-cog"></i>`  
 
- heading
+### heading
 
 \# 来表示 h1 \#\#\#\#\#\#表示 h6
 
