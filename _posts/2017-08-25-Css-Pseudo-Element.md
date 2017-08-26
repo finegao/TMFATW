@@ -20,11 +20,8 @@ selector::pseudo-element {
 }
 ```
 > Notice the double colon notation - ::first-line versus :first-line
-
 > The double colon replaced the single-colon notation for pseudo-elements in CSS3. This was an attempt from W3C to distinguish between pseudo-classes and pseudo-elements.
-
 > The single-colon syntax was used for both pseudo-classes and pseudo-elements in CSS2 and CSS1.
-
 > For backward compatibility, the single-colon syntax is acceptable for CSS2 and CSS1 pseudo-elements.
 
 Css3 为了区分伪类和伪元素，让伪元素使用两个冒号，伪类使用一个冒号。
