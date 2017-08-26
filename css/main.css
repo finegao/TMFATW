@@ -651,17 +651,8 @@ figcaption {
   font-style: italic;
 }
 
-blockquote {
-  font: 1em 'Oswald', 'Helvetica Narrow', Arial, sans-serif;
-  font-weight: 400;
-  color: #6d6d6d;
-  padding-left: 1em;
-  margin: 1em 0;
-  border-left: 4px solid #6d6d6d;
-}
-
 article blockquote p {
-  font: 1em 'Oswald', 'Helvetica Narrow', Arial, sans-serif;
+  font: 1.2em 'Oswald', 'Helvetica Narrow', Arial, sans-serif;
   font-weight: 400;
   color: #6d6d6d;
   padding-left: 1em;
